@@ -42,7 +42,7 @@ Nov 2, 2022
 
 🎙️ [Recording](https://open.spotify.com/episode/24geq2H7UQp6s70uumATaC?si=kMnhmxR7SsG6Xyq1cYQ4UA&nd=1&dlsi=7c5be12eeb1743d3)
 
-### Lunar uses GitOps to Standardize Workflows and Enhance the Developer Experience
+#### Lunar uses GitOps to Standardize Workflows and Enhance the Developer Experience
 
 The Art of Modern Ops podcast  
 May 23, 2022
