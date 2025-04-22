@@ -5,6 +5,14 @@
 Here is a list of all the public speaking activities I have participated in.
 It is a mix of talks, podcast appearances, interviews, and case studies.
 
+### 2025
+
+#### Platform Engineering is Product Engineering (for infrastructure)
+
+Cloud Native Aalborg  
+Apr 22, 2025  
+📺 [Slides](https://github.com/user-attachments/files/19857477/Platform.Engineering.is.Product.Engineering.for.infrastructure.1.pdf)
+
 ### 2024
 
 #### Platform Engineering at Lunar
